@@ -1,0 +1,40 @@
+.box {
+  border: 1px solid blue;
+  border-radius: 4px;
+  padding: 1rem;
+  text-align: center;
+}
+
+#a {
+    height: 15%;
+}
+
+#r {
+  border: 1px solid blue;
+  border-radius: 4px;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+#y {
+    height: 25%;
+    width: 23%;
+}
+
+#l{
+  height: 70px;
+  width: 13%;
+}
+
+#m {
+  height: 20px;
+}   
+    
+#v{
+   border: 1px solid blue;
+  border-radius: 4px;
+  padding: 1rem;
+  text-align: center; 
+}
+
