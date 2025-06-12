@@ -7,10 +7,10 @@
     .zone .col-4 {
       position: absolute;
       background-color: #be1b2b;
-      color: #ffffff;
-      padding: 1rem;
+      color: #000000;
+      padding: 1.5rem;
       text-align: center;
     }
-    .col1 { top: 0; left: 0; }
-    .col2 { top: 50%; left: 50%; transform: translate(-50%, -50%); }
-    .col3 { bottom: 0; right: 0; }
+    .col1 { top: 0; left: 0; width: 310px;}
+    .col2 { top: 50%; left: 50%; transform: translate(-50%, -50%); width: 370px;}
+    .col3 { bottom: 0; right: 0; width: 310px;}
