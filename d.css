@@ -1,0 +1,22 @@
+.ligne {
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+      border: 1px solid #cecece;
+    }
+    .bloc-rouge,
+    .bloc-vert {
+      height: 1.5rem;
+    }
+    .bloc-rouge {
+      background-color: #da3041;
+      margin-left: 0.5rem;
+    }
+    .bloc-vert {
+      background-color: #198a55;
+      margin-right: 0.5rem;
+    }
+
+    p{
+        text-align: center;
+        margin: 0;
+    }
